@@ -24,8 +24,9 @@ A comprehensive task management platform designed for families, featuring:
 - 💰 Integrated financial education (MoneyBuckets)
 - 📚 Homeschool scheduling and progress tracking
 
+**AI Assistant:** Codex
 **Tech Stack:** React, AWS Amplify, DynamoDB, Cognito  
-**Product Insight:** Built to solve the real problem of coordinating complex family logistics - from chores to education to financial planning - in one cohesive system.
+**Product Insight:** Built to solve the real problem of coordinating complex family logistics - from chores to rewards to marriage unity - in one cohesive system.
 
 ### MoneyBuckets (Private Usage)
 **Financial Literacy for Kids**
@@ -36,8 +37,22 @@ An envelope-style budgeting app teaching children money management through:
 - 🎯 Goal-setting and savings visualization
 - 📈 Parent oversight without micromanagement
 
+**AI Assistant:** Claude Code
 **Tech Stack:** AWS (Lambda, API Gateway, DynamoDB), React  
-**Product Insight:** Designed with the principle that financial literacy starts with tangible concepts before moving to abstract ones.
+**Product Insight:** Designed with the principle that financial literacy starts with tangible, foundational concepts such as: (1) money is earned (not given), (2) think of the future with an intentional savings plan, (3) always set aside funds to be generous, and (4) guilt-free spending is awesome when you've taken care of all other priorities.
+
+### Consistency Protocol (Private Usage)
+**Frictionless Fitness Habit Building**
+
+A structured workout application designed to turn fitness intentions into unbreakable habits through:
+- 🗓️ Pre-planned daily routines that eliminate decision fatigue
+- ⏱️ Immersive, guided interval timers with integrated form-checking
+- 🤝 Psychological buy-in via forward-looking workout commitments
+- 🟩 Visual proof of identity with a 90-day GitHub-style consistency grid
+
+**AI Assistant:** Gemini via Google AI Studio
+**Tech Stack:** React, TypeScript, Tailwind CSS, Framer Motion
+**Product Insight:** Designed with the principle that motivation follows action; building an identity as an athlete through visual proof of consistency is far more powerful than tracking complex performance metrics.
 
 ### TPM Craft Newsletter
 **Regular insights for Technical Program Managers**
