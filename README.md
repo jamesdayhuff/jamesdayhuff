@@ -40,9 +40,9 @@ An envelope-style budgeting app teaching children money management through:
 **Product Insight:** Designed with the principle that financial literacy starts with tangible concepts before moving to abstract ones.
 
 ### TPM Craft Newsletter
-**Weekly insights for Technical Program Managers**
+**Regular insights for Technical Program Managers**
 
-Curating the intersection of technical leadership, program management, and career growth. Helping TPMs level up their craft through practical frameworks and real-world insights.
+Curating the intersection of technical leadership, program management, and career growth. Helping TPMs level up their craft through practical frameworks and real-world insights. 50+ articles with 1200+ subscribers.
 
 🔗 [Subscribe on Substack](https://tpmcraft.substack.com/)
 
