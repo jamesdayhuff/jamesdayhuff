@@ -15,7 +15,7 @@ I drive strategy and execution for the non-functional requirements that take our
 
 ## 🚀 Featured Projects
 
-### [HomeFlow](https://github.com/yourusername/homeflow) 
+### HomeFlow (Private Usage)
 **Family Operating System for Modern Life**
 
 A comprehensive task management platform designed for families, featuring:
@@ -27,7 +27,7 @@ A comprehensive task management platform designed for families, featuring:
 **Tech Stack:** React, AWS Amplify, DynamoDB, Cognito  
 **Product Insight:** Built to solve the real problem of coordinating complex family logistics - from chores to education to financial planning - in one cohesive system.
 
-### [MoneyBuckets](https://github.com/yourusername/moneybuckets)
+### MoneyBuckets (Private Usage)
 **Financial Literacy for Kids**
 
 An envelope-style budgeting app teaching children money management through:
