@@ -31,6 +31,7 @@ I've had multiple roles across strategy and execution. I've seen how the sausage
 
 ### MoneyBuckets
 **Financial Literacy for Kids**
+
 **Status:** ✅ Actively Used (privately, not publicly launched)
 
 An envelope-style budgeting app teaching children money management through:
@@ -47,6 +48,7 @@ An envelope-style budgeting app teaching children money management through:
 
 ### HomeFlow
 **Family Operating System for Modern Life**
+
 **Status:** 🔄 In Progress (likely 80% complete until MVP readiness)
 
 A comprehensive task management platform designed for families, featuring:
@@ -63,6 +65,7 @@ A comprehensive task management platform designed for families, featuring:
 
 ### Consistency Protocol
 **Frictionless Fitness Habit Building**
+
 **Status:** 🔄 In Progress (personal beta testing starting soon, but eventually need to move change it to a native mobile app using Flutter)
 
 A structured workout application designed to turn fitness intentions into unbreakable habits through:
