@@ -15,6 +15,21 @@ I drive strategy and execution for the non-functional requirements that take our
 
 ## 🚀 Featured Projects
 
+### MoneyBuckets
+**Financial Literacy for Kids**
+
+An envelope-style budgeting app teaching children money management through:
+- 🎨 Visual bucket metaphors kids understand
+- 💵 Real-world transaction tracking
+- 🎯 Goal-setting and savings visualization
+- 📈 Parent oversight without micromanagement
+
+**Status:** ✅ Actively Used (privately, not publicly launched)
+**AI Assistant:** Claude Code
+**Tech Stack:** AWS (Lambda, API Gateway, DynamoDB), React  
+**Product Insight:** Designed with the principle that financial literacy starts with tangible, foundational concepts such as: (1) money is earned (not given), (2) think of the future with an intentional savings plan, (3) always set aside funds to be generous, and (4) guilt-free spending is awesome when you've taken care of all other priorities.
+
+
 ### HomeFlow (Private Usage)
 **Family Operating System for Modern Life**
 
@@ -24,22 +39,11 @@ A comprehensive task management platform designed for families, featuring:
 - 💰 Integrated financial education (MoneyBuckets)
 - 📚 Homeschool scheduling and progress tracking
 
+**Status:** 🔄 In Progress (likely 80% complete until MVP readiness)
 **AI Assistant:** Codex
 **Tech Stack:** React, AWS Amplify, DynamoDB, Cognito  
 **Product Insight:** Built to solve the real problem of coordinating complex family logistics - from chores to rewards to marriage unity - in one cohesive system.
 
-### MoneyBuckets (Private Usage)
-**Financial Literacy for Kids**
-
-An envelope-style budgeting app teaching children money management through:
-- 🎨 Visual bucket metaphors kids understand
-- 💵 Real-world transaction tracking
-- 🎯 Goal-setting and savings visualization
-- 📈 Parent oversight without micromanagement
-
-**AI Assistant:** Claude Code
-**Tech Stack:** AWS (Lambda, API Gateway, DynamoDB), React  
-**Product Insight:** Designed with the principle that financial literacy starts with tangible, foundational concepts such as: (1) money is earned (not given), (2) think of the future with an intentional savings plan, (3) always set aside funds to be generous, and (4) guilt-free spending is awesome when you've taken care of all other priorities.
 
 ### Consistency Protocol (Private Usage)
 **Frictionless Fitness Habit Building**
@@ -50,6 +54,7 @@ A structured workout application designed to turn fitness intentions into unbrea
 - 🤝 Psychological buy-in via forward-looking workout commitments
 - 🟩 Visual proof of identity with a 90-day GitHub-style consistency grid
 
+**Status:** 🔄 In Progress (personal beta testing starting soon, but eventually need to move change it to a native mobile app using Flutter)
 **AI Assistant:** Gemini via Google AI Studio
 **Tech Stack:** React, TypeScript, Tailwind CSS, Framer Motion
 **Product Insight:** Designed with the principle that motivation follows action; building an identity as an athlete through visual proof of consistency is far more powerful than tracking complex performance metrics.
