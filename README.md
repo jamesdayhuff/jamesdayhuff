@@ -29,8 +29,7 @@ I've had multiple roles across strategy and execution. I've seen how the sausage
 
 ## 🚀 Featured Projects
 
-### MoneyBuckets
-**Financial Literacy for Kids**
+### MoneyBuckets: Financial Literacy for Kids
 
 **Status:** ✅ Actively Used (privately, not publicly launched)
 
@@ -46,8 +45,7 @@ An envelope-style budgeting app teaching children money management through:
 **Product Insight:** Designed with the principle that financial literacy starts with tangible, foundational concepts such as: (1) money is earned (not given), (2) think of the future with an intentional savings plan, (3) always set aside funds to be generous, and (4) guilt-free spending is awesome when you've taken care of all other priorities.
 
 
-### HomeFlow
-**Family Operating System for Modern Life**
+### HomeFlow: Family Operating System for Modern Life
 
 **Status:** 🔄 In Progress (likely 80% complete until MVP readiness)
 
@@ -63,8 +61,7 @@ A comprehensive task management platform designed for families, featuring:
 **Product Insight:** Built to solve the real problem of coordinating complex family logistics - from chores to rewards to marriage unity - in one cohesive system.
 
 
-### Consistency Protocol
-**Frictionless Fitness Habit Building**
+### Consistency Protocol: Frictionless Fitness Habit Building
 
 **Status:** 🔄 In Progress (personal beta testing starting soon, but eventually need to move change it to a native mobile app using Flutter)
 
