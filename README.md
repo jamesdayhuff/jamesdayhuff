@@ -1,16 +1,30 @@
 # Hey there, I'm James 👋
 
-**Technical Program Manager & Product Manager** 
+**Technical Program & Product Manager**
+I help scaling software companies win enterprise customers by turning compliance, security, and reliability into competitive advantages.
 
 ## 🎯 What I Do
 
-I drive strategy and execution for the non-functional capabilities (think compliance, security, reliability) that expands products growth potential from niche customers to enterprise markets. Currently focused on compliance and security platform capabilities at HashiCorp, I bring a unique blend of technical breadth, product thinking, and execution prowess.
+I drive strategy and execution for non-functional capabilities (think compliance, security, reliability) as products scale up after they have product market fit. 
+
+If invested in properly, these non-functional capabilities are fuel for the fire of sales and product-led growth. The product can move from early adopting customers to full-on enterprise markets. 
+
+**Believe me, as much as you want to be loved by customers, you also want to be approved by procurement.**
 
 ### Current Focus
 - 🔐 Product Management for platform compliance at HashiCorp
 - ✍️ Running the [TPM Craft Newsletter](https://tpmcraft.substack.com/)
 - 📚 Co-authoring **a top secret project** with Packt Publishing
 - 🛠️ Building family-focused and personal health product experiments
+
+## 🌟 What Makes Me Special (just like everyone else)
+
+I've had multiple roles across strategy and execution. I've seen how the sausage is made. I've made the sausage.
+- **Strategic Thinking:** Good execution on bad ideas isn't worth very much. My time in Product has shaped how I see through the lens of the customer and business drivers.
+- **Technical Aptitude:** System architecture and tech debt? Let's chat. Working with engineering feels very natural to me...because I've been in their shoes.
+- **Execution Excellence:** Execution with 1 team is easy. Building an engine of large, cross-functional execution across 20 teams is a different game.
+- **Systems Thinking:** The butterfly effect isn't theoretical, but it is often dismissed in an organizational setting. Cross-company dependencies are a wild thing.
+- **Builder Mentality:** I don't just spec products, I build them by utilizing my prior time as a mid-level engineer.
 
 ## 🚀 Featured Projects
 
@@ -65,16 +79,6 @@ Curating the intersection of technical leadership, program management, and caree
 
 🔗 [Subscribe on Substack](https://tpmcraft.substack.com/)
 
-## 💡 Product Philosophy
-
-> "I approach product development like RPG character development - continuous learning, skill stacking, and systematic improvement."
-
-I believe great products come from:
-1. **Deep user empathy** - Solving real problems, not hypothetical ones
-2. **Technical credibility** - Understanding what's possible AND what's practical
-3. **Systematic thinking** - Frameworks and processes that scale
-4. **Iterative delivery** - Ship, learn, improve, repeat
-
 ## 📝 Writing & Thought Leadership
 
 - 🎯 [TPM Craft Newsletter](https://tpmcraft.substack.com/) - Weekly TPM insights
@@ -82,14 +86,7 @@ I believe great products come from:
 - 📹 [Analytics Youtube Content](https://www.youtube.com/@jamesdayhuff3918/videos) (from a decade ago, feels like another life)
 
 
-## 🌟 What Makes Me Different
 
-I've had multiple roles across strategy and execution. I've seen how the sausage is made.
-- **Strategic Thinking:** Good execution on bad ideas isn't worth very much
-- **Technical Aptitude:** System architecture and tech debt, let's chat.
-- **Execution Excellence:** Execution with 1 team is easy. Building an engine of large, cross-functional execution across 20 teams is a different game.
-- **Systems Thinking:** The butterfly effect isn't theoretical, but it is often dismissed in an organizational setting.
-- **Builder Mentality:** I don't just spec products, I build them by utilizing my prior experience as a front-end and API engineer
 
 ---
 
