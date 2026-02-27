@@ -1,17 +1,17 @@
 # Hey there, I'm James 👋
 
-**Staff Technical Program Manager → Product Manager** at HashiCorp  
-Building products at the intersection of compliance, security, and infrastructure reliability
+**Technical Program Manager & Product Manager** 
+Building capabilities at the intersection of infrastructure compliance, security, and reliability.
 
 ## 🎯 What I Do
 
-I transform complex technical challenges into elegant product solutions. Currently focused on compliance and security products at HashiCorp, I bring a unique blend of technical depth and product thinking shaped by years as a TPM.
+I drive strategy and execution for the non-functional requirements that take our products from niche customers to enterprise markets. Currently focused on compliance and security products at HashiCorp, I bring a unique blend of technical depth and product thinking shaped by years as a TPM.
 
 ### Current Focus
-- 🔐 Product Management for compliance, security, and infrastructure reliability at HashiCorp
+- 🔐 Product Management for platform compliance at HashiCorp
 - ✍️ Running the [TPM Craft Newsletter](https://tpmcraft.substack.com/)
-- 📚 Co-authoring "Technical Program Manager's Guide to Practical AI" with Packt Publishing
-- 🛠️ Building family-focused product experiments
+- 📚 Co-authoring **a top secret project** with Packt Publishing
+- 🛠️ Building family-focused and personal health product experiments
 
 ## 🚀 Featured Projects
 
@@ -56,71 +56,22 @@ I believe great products come from:
 3. **Systematic thinking** - Frameworks and processes that scale
 4. **Iterative delivery** - Ship, learn, improve, repeat
 
-## 🛠️ Skills & Expertise
-
-**Product Management**
-- Product Strategy & Roadmapping
-- User Research & Requirements Gathering
-- Stakeholder Management
-- Go-to-Market Planning
-- Compliance & Security Products
-
-**Technical Program Management**
-- Cross-functional Team Leadership
-- Technical Architecture & System Design
-- Risk Management & Mitigation
-- Agile/Scrum Methodologies
-- Program Execution at Scale
-
-**Technical Skills**
-- **Cloud:** AWS (Amplify, Lambda, API Gateway, DynamoDB, Cognito, Route 53)
-- **Languages:** JavaScript, Python, Infrastructure as Code
-- **Frameworks:** React, Next.js
-- **Tools:** Git, CI/CD, Product Analytics
-- **AI/ML:** Prompt Engineering, AI-Assisted Development
-
-## 📊 Product Metrics I Care About
-
-When building products, I focus on:
-- **User Activation:** How quickly can users achieve their first success?
-- **Retention Loops:** What brings users back day after day?
-- **Systematic Impact:** How does this scale beyond individual transactions?
-- **Learning Velocity:** How fast can we validate assumptions?
-
 ## 📝 Writing & Thought Leadership
 
 - 🎯 [TPM Craft Newsletter](https://tpmcraft.substack.com/) - Weekly TPM insights
-- 📚 "Technical Program Manager's Guide to Practical AI" (Forthcoming, Packt Publishing)
-- 💭 Regular contributor on topics at the intersection of technical leadership and product management
+- 📚 Top Secret Project (Forthcoming, Packt Publishing)
+- 📹 [Analytics Youtube Content](https://www.youtube.com/@jamesdayhuff3918/videos) (from a decade ago, feels like another life)
 
-## 🎓 Background
-
-**Previous Role:** Staff Technical Program Manager at HashiCorp  
-**Expertise:** Infrastructure, Cloud Platforms, Developer Tools  
-**Superpower:** Translating complex technical requirements into clear product vision
 
 ## 🌟 What Makes Me Different
 
-As a PM who came from TPM, I bring:
-- **Technical Depth:** I can read code, review architectures, and debate implementation tradeoffs
-- **Execution Excellence:** Years of shipping complex technical programs on time
-- **Systems Thinking:** Understanding how products fit into larger ecosystems
-- **Builder Mentality:** I don't just spec products, I build them
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jamzdayhuff/)
-- 📧 [TPM Craft Newsletter](https://tpmcraft.substack.com/)
-- 🐦 Open to collaboration on product ideas that matter
+I've had multiple roles across strategy and execution. I've seen how the sausage is made.
+- **Strategic Thinking:** Good execution on bad ideas isn't worth very much
+- **Technical Aptitude:** System architecture and tech debt, let's chat.
+- **Execution Excellence:** Execution with 1 team is easy. Building an engine of large, cross-functional execution across 20 teams is a different game.
+- **Systems Thinking:** The butterfly effect isn't theoretical, but it is often dismissed in an organizational setting.
+- **Builder Mentality:** I don't just spec products, I build them by utilizing my prior experience as a front-end and API engineer
 
 ---
 
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
----
-
-**Currently exploring:** How AI transforms the PM role | Family technology products | Building in public
-
-*"The best products solve real problems for real people. Everything else is just features."*
+**Currently exploring:** How AI transforms the PM and TPM roles | Family technology products | Building in public | Writing to mentor at-scale
