@@ -1,4 +1,4 @@
-# Hey there, I'm James 👋
+# Hey there, I'm James 👨🏻‍💻
 
 **Technical Program & Product Leader**
 
