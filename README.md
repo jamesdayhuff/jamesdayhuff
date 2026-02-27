@@ -1,16 +1,16 @@
 # Hey there, I'm James 👋
 
-**Technical Program & Product Manager**
+**Technical Program & Product Leader**
 
 I help scaling software companies win enterprise customers by turning compliance, security, and reliability into competitive advantages.
 
 ## 🎯 What I Do
 
-I drive strategy and execution for non-functional capabilities (think compliance, security, reliability) as products scale up after they have product market fit. 
+I drive strategy and execution for critical non-functional capabilities required for products to scale beyond early adopters and succeed in regulated, high-trust markets.
 
-If invested in properly, these non-functional capabilities are fuel for the fire of sales and product-led growth. The product can move from early adopting customers to full-on enterprise markets. 
+When built strategically, these capabilities don’t slow growth; they enable it, unlocking larger deals, new industries, and long-term platform viability.
 
-**Believe me, as great as it is to be loved by customers, it is equally important to be approved by their procurement processes.**
+**Being loved by users is valuable. Being approved by enterprise procurement is a game-changer.**
 
 ### Current Focus
 - 🔐 Product Management for platform compliance at HashiCorp
@@ -44,7 +44,7 @@ An envelope-style budgeting app teaching children money management through:
 **Product Insight:** Designed with the principle that financial literacy starts with tangible, foundational concepts such as: (1) money is earned (not given), (2) think of the future with an intentional savings plan, (3) always set aside funds to be generous, and (4) guilt-free spending is awesome when you've taken care of all other priorities.
 
 
-### HomeFlow (Private Usage)
+### HomeFlow
 **Family Operating System for Modern Life**
 
 A comprehensive task management platform designed for families, featuring:
@@ -59,7 +59,7 @@ A comprehensive task management platform designed for families, featuring:
 **Product Insight:** Built to solve the real problem of coordinating complex family logistics - from chores to rewards to marriage unity - in one cohesive system.
 
 
-### Consistency Protocol (Private Usage)
+### Consistency Protocol
 **Frictionless Fitness Habit Building**
 
 A structured workout application designed to turn fitness intentions into unbreakable habits through:
