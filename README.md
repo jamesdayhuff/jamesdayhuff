@@ -1,11 +1,10 @@
 # Hey there, I'm James 👋
 
 **Technical Program Manager & Product Manager** 
-Building capabilities at the intersection of infrastructure compliance, security, and reliability.
 
 ## 🎯 What I Do
 
-I drive strategy and execution for the non-functional requirements that take our products from niche customers to enterprise markets. Currently focused on compliance and security products at HashiCorp, I bring a unique blend of technical depth and product thinking shaped by years as a TPM.
+I drive strategy and execution for the non-functional capabilities (think compliance, security, reliability) that expands products growth potential from niche customers to enterprise markets. Currently focused on compliance and security platform capabilities at HashiCorp, I bring a unique blend of technical breadth, product thinking, and execution prowess.
 
 ### Current Focus
 - 🔐 Product Management for platform compliance at HashiCorp
