@@ -1,6 +1,7 @@
 # Hey there, I'm James 👋
 
 **Technical Program & Product Manager**
+
 I help scaling software companies win enterprise customers by turning compliance, security, and reliability into competitive advantages.
 
 ## 🎯 What I Do
@@ -9,7 +10,7 @@ I drive strategy and execution for non-functional capabilities (think compliance
 
 If invested in properly, these non-functional capabilities are fuel for the fire of sales and product-led growth. The product can move from early adopting customers to full-on enterprise markets. 
 
-**Believe me, as much as you want to be loved by customers, you also want to be approved by procurement.**
+**Believe me, as great as it is to be loved by customers, it is equally important to be approved by their procurement processes.**
 
 ### Current Focus
 - 🔐 Product Management for platform compliance at HashiCorp
