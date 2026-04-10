@@ -15,7 +15,6 @@ When built strategically, these capabilities don’t slow growth; they enable it
 ### Current Focus
 - 🔐 Product Management for platform compliance at HashiCorp
 - ✍️ Running the [TPM Craft Newsletter](https://tpmcraft.substack.com/)
-- 📚 Co-authoring **a top secret project** with Packt Publishing
 - 🛠️ Building family-focused and personal health product experiments
 
 ## 🌟 What Makes Me Special (just like everyone else)
@@ -86,7 +85,6 @@ Curating the intersection of technical leadership, program management, and caree
 ## 📝 Writing & Thought Leadership
 
 - 🎯 [TPM Craft Newsletter](https://tpmcraft.substack.com/) - Weekly TPM insights
-- 📚 Top Secret Project (Forthcoming, Packt Publishing)
 - 📹 [Analytics Youtube Content](https://www.youtube.com/@jamesdayhuff3918/videos) (from a decade ago, feels like another life)
 
 
